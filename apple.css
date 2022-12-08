@@ -1,0 +1,23 @@
+body{
+    background-color: #14539A;
+}
+p{
+    color: aqua;
+    font-size: 20px;
+}
+ul{
+    border: 1px #ccc;
+    font-size: 18px;
+}
+#header{
+border: 2px solid #ccc;
+font-size: larger;
+}
+.apple{
+    margin: auto;
+    width: 1000px;
+}
+Input[type="submit"]{
+ font-size: 20px;
+ line-height: 1.2;
+}
